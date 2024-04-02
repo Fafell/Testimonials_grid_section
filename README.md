@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://testimonials-grid-section-fafel.netlify.app/)
 
 ## My process
 
